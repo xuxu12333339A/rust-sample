@@ -1,0 +1,2 @@
+# rust-sample
+first sample
